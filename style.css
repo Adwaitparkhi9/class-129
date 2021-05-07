@@ -1,0 +1,7 @@
+body{
+    background-color: hotpink;
+}
+canvas{
+    border: 5px solid rgb(7, 230, 118) ;
+    border-radius: 20px;
+}
